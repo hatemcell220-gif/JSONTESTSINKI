@@ -1,6 +1,6 @@
 {
   "app_status": {
-    "maintenance": false,
+    "maintenance": true,
     "message": "التطبيق حاليا تحت الصيانة يرجى المحاولة في وقت لاحق",
     "telegram": "https://t.me/Group_Sinki"
   }
