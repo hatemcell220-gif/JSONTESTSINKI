@@ -2,6 +2,7 @@
   "app_status": {
     "maintenance": true,
     "message": "نقوم بالصيانة يرجى المحاولة لاحقا",
+    "time": 300,
     "telegram": "https://t.me/Group_Sinki"
   }
 }
