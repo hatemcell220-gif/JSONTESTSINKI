@@ -1,8 +1,9 @@
 {
-  "app_status": {
-    "maintenance": true,
-    "message": "نقوم بالصيانة يرجى المحاولة لاحقا",
-    "time": 300,
-    "telegram": "https://t.me/Group_Sinki"
-  }
+    "app_status": {
+        "maintenance": true,
+        "start_time": 1731950000,
+        "duration": 300,
+        "message": "نقوم بالصيانة يرجى المحاولة لاحقاً",
+        "telegram": "https://t.me/Group_Sinki"
+    }
 }
