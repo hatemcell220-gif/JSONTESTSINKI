@@ -1,7 +1,7 @@
 {
     "app_status": {
         "maintenance": true,
-        "message": "نقوم بالصيانة:  سيتوفر تحديث قريبا!",
+        "message": "An update will be available soon",
         "telegram": "https://t.me/Group_Sinki"
     }
 }
